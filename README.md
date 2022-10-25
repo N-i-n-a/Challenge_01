@@ -29,6 +29,8 @@ Heading attributes fall in sequential order
 
 Title elements contain a concise, descriptive title
 ```
+## Website Screenshot
+![](assets/images/website-screenshot.png)
 
 ## Deployed web application: 
 URL: https://n-i-n-a.github.io/challenge_01/ 
